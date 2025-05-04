@@ -1,0 +1,1 @@
+            ctx.fillStyle = "blue";
