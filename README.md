@@ -91,3 +91,44 @@ After a lifetime of bullying for being small and colorful, the lone snake stumbl
   - Dynamic prompts with final score and encouragement to replay.  
 - **Confirmations**  
   - Prompt before resetting or reloading
+- **Input Validation**
+  - Only arrow keys, Spacebar, P/R/M are handled.
+
+---
+
+## Assets & Animation
+
+### Snake
+- Smooth cell-to-cell transitions  
+- Head-to-tail color gradient
+
+### Food
+- Fade-in or “pop” effect when apples appear
+
+### Special Gift
+- Coin award animation in level two
+
+---
+
+## Sounds
+
+### Effects
+- Eat food  
+- Shoot bullet  
+- Change direction  
+- Collision (game over)  
+- Level complete / Win  
+
+Press **M** to mute or unmute all sounds.
+
+---
+
+## Future Improvements
+
+- Add levels with moving obstacles  
+- Power-ups (speed boost, temporary invincibility)  
+- Leaderboard & social sharing  
+- Mobile / touch-screen support  
+- Multiple themes or skins
+
+---
